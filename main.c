@@ -9,5 +9,7 @@ int main ()
   {
     printf("erreur");
   }
+  ;;;;
+  FATAL ERROR
   return 0;
 }
