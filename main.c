@@ -9,5 +9,9 @@ int main ()
   {
     printf("erreur");
   }
+  else
+  {
+    printf("dites bonjour a mazigounet!");
+  }
   return 0;
 }
